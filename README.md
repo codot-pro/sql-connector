@@ -3,9 +3,9 @@
 This is example how to create simple database connector using JavaDelegate<br /><br />
 ![Sql-Connector](src/main/resources/picture1.png)
 
-<h3>Configuration of SQL-Connector</h3>
+Configuration of SQL-Connector<br />
 There are two "Field injections" fields provided: "datasourceProperties" for database connections settings and "query" for SQL request definition<br /><br />
-![Sql-Connector](src/main/resources/picture2.png)
+![Field injections](src/main/resources/picture2.png)
 
 <h3>How to run</h3>
 
